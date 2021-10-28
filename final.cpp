@@ -1,7 +1,4 @@
-/*Ben Hall
-Section 05
-9/21
-Lab 4
+/*
 Most of the work I did was making a better number generator - which doesn't seem too hard, but I actually spent quite a few hours looking through 
 it and finding information on number generation to making this work. Originally, I was going to use rand(), but rand() sucks, it gave me the same
 number 80% of the time. Then I moved to a better solution using the mersenne twister. The first solution, in hindsight would've worked if I was 
